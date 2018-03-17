@@ -46,7 +46,7 @@ module.exports = {
         }
       },
       rules: {
-        'react/jsx-no-comment-textnodes': 2
+        'react/jsx-no-textnodes': 2
       }
     },
     all: {

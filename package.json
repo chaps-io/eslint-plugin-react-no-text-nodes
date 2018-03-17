@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Piotr Okoński <piotrek@okonski.org>",
   "description": "ESlint to find raw text nodes in JSX",
   "main": "index.js",
